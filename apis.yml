@@ -33,7 +33,7 @@ tags:
 description: >-
   Portland General Electric is a major US corporation and Fortune 1000 company. The Portland General Electric API provides programmatic access to its platform services, data, and integrations for enterprise customers and partners.
 created: '2026-04-19'
-modified: '2026-04-19'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis:
   - aid: portland-general-electric:portland-general-electric-api
@@ -51,6 +51,8 @@ apis:
     description: >-
       The Portland General Electric API provides access to platform services and data for enterprise integration and automation.
 common:
+  - url: https://portlandgeneral.com/newsroom
+    type: Blog
   - type: DomainSecurity
     url: security/portland-general-electric-domain-security.yml
   - type: LinkedIn
