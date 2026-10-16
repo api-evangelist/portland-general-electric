@@ -1,0 +1,14 @@
+{
+  "repo": "portland-general-electric",
+  "feeds": [
+    {
+      "source": "https://portlandgeneral.com/newsroom",
+      "feed_url": "https://portlandgeneral.com/newsroom",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
